@@ -1,0 +1,26 @@
+    header {
+    background-image: url("https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80");
+    background-size: 700px;
+    opacity: 80%;
+    color: white;
+    }
+
+    h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    margin-top: center;
+    padding: 6%;
+    }
+
+    header p {
+    display: : flex;
+    justify-content: center;
+    }
+
+.boton {
+    margin-left: 40%;
+    color: white;
+    
+}
