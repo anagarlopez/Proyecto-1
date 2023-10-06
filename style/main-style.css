@@ -34,8 +34,8 @@ section {
           list-style-type: disc;
           margin-block-start: 1em;
           margin-block-end: 1em;
-          
           padding-inline-start: 40px;
+          columns: 3;
       }
   
   #section-b li {
@@ -50,10 +50,8 @@ section {
       height: auto;
       overflow-clip-margin: content-box;
       overflow: clip;
-      overflow-y: ;
-      overflow-x: ;}
-
-  
+      
+    }
 
     #section-c {
       background: white;
@@ -89,3 +87,14 @@ section {
       text-align: -webkit-match-parent;
   }
   
+
+#section-d .box:first-child {
+    background: blue;
+}
+
+section-d .box {
+    padding: 2em;
+    color: white;
+    background-color: black;
+}
+
