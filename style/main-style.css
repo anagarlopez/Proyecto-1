@@ -1,0 +1,16 @@
+#section-a{
+  background-color: white; 
+  background: #eaeaea;
+  color: #333;
+  padding-bottom: 2em;
+  margin-top: -10%;
+
+}
+div{
+    padding-top: 25px;
+    display: block;
+}
+#section-a .content-text {
+    columns: 2;
+  }
+

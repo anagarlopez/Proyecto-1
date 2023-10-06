@@ -1,23 +1,35 @@
 header {
-    background-image: url("https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80");
-    background-size: 700px;
+    background-image: url("https://images.unsplash.com/photo-1595147389795-37094173bfd8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1738&q=80");
+    background-size: 850px;
     background-blend-mode: darken;
     color: white;
+    padding-top: 90px;
+    padding-bottom: 130px;
 }
 
 h1 {
+    display: block;
     font-size: 2.3em;
 	line-height: 1.3em;
 	margin: 15px 0;
 	text-align: center;
 	font-weight: 300;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    font-weight: bold;
 
 }
 .boton {
+    border: 1px solid;
+    padding: 10px;
     display: inline-block;
-    background: #333;
+    background-color: #333;
     color: #fff;
-    padding: 1em 2em;
-    border: 1px solid #666;
+    text-decoration: none;
+    border: 1px solid #333;
     margin: .5em 0;
+}
+
+main {
+    background-color: white;
 }
