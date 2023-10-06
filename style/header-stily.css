@@ -1,0 +1,23 @@
+header {
+    background-image: url("https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2938&q=80");
+    background-size: 700px;
+    background-blend-mode: darken;
+    color: white;
+}
+
+h1 {
+    font-size: 2.3em;
+	line-height: 1.3em;
+	margin: 15px 0;
+	text-align: center;
+	font-weight: 300;
+
+}
+.boton {
+    display: inline-block;
+    background: #333;
+    color: #fff;
+    padding: 1em 2em;
+    border: 1px solid #666;
+    margin: .5em 0;
+}

@@ -1,0 +1,13 @@
+@import url("header-stily.css");
+@import url("main-style.css");
+@import url("footer-style.css");
+
+body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background: #333;
+	color: #fff;
+	font-size: 1.1em;
+	line-height: 1.5em;
+	text-align: center;
+}
