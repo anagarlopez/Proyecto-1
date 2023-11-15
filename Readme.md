@@ -1,4 +1,4 @@
-!! resultados
+!! resultados primer trabajo en pareja, ACME
 <img width="1470" alt="Captura de pantalla 2023-10-09 a las 18 00 17" src="https://github.com/Camila1897/Proyecto-1/assets/146727321/a16d9568-4c5b-448b-bcdf-6bc8f445dd32">
 
 
